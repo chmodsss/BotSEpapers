@@ -60,6 +60,9 @@ List of research papers related to Bots used in Software engineering.
 
 * Accelerating Software Engineering Research Adoption with Analysis Bots [[source]](https://dl.acm.org/doi/10.1109/ICSE-NIER.2017.17)
 
+* Bot Detection in GitHub Repositories [[source]](https://arxiv.org/abs/2203.16997)
+
+
 ## Software development process
 
 * A Journey Towards Providing Intelligence and Actionable Insights to Development Teams in Software Delivery [[source]](https://dl.acm.org/doi/10.1109/ASE.2019.00142)
